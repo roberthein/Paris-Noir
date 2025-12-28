@@ -1,0 +1,21 @@
+{
+  "name": "paris-noir",
+  "displayName": "Paris Noir",
+  "description": "A beautiful dark theme. Bonne nuit!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Paris Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paris Noir-color-theme.json"
+      }
+    ]
+  }
+}
